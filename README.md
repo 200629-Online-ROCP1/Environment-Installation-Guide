@@ -13,7 +13,7 @@ The following technologies are required in order to complete this phase of the p
 
 - **Git**: We'll be using Git as a version control tool during the course of this program. Not only will you use Git to track changes to your projects, but you'll also use it to collaborate with your trainer and with your fellow associates.
 - **Java SE Development Kit 8**: We will be utilizing Java 8 as our primary language for the duration of the program. This software development kit will provide the compiler and runtime environment needed to quickly and efficiently develop Java applications.
-- **Spring Tool Suite 3**: We will be using Spring Tool Suite 3 as our *integrated development environment* (IDE). Though you don't need an IDE to write code, an IDE provides several features that make rapid development (e.g. quickly writing and refactoring code) easier.
+- **Spring Tool Suite 4**: We will be using Spring Tool Suite 4 as our *integrated development environment* (IDE). Though you don't need an IDE to write code, an IDE provides several features that make rapid development (e.g. quickly writing and refactoring code) easier.
 - **Apache Maven**: Maven is a software project management and build automation tool. We will use it to manage our projects' builds as it provides dependency management and streamlines several aspects of the testing life cycle.
 - **PostgreSQL 10**: PostgreSQL is an open source relational database. We will leverage this technology in order to persist and organize data.
 - **DBeaver**: DBeaver is a free, open source universal database tool that is compatible with several external data sources, PostgreSQL included. We'll use DBeaver in order to modify our databases and persist data using a simple user interface provided to us by the tool.
@@ -94,11 +94,11 @@ Now verify that you have installed Java properly by typing this command:
 
      java -version
 
-### Step 6: Install Spring Tool Suite 3
+### Step 6: Install Spring Tool Suite 4
 
-In order to install Spring Tool Suite 3, run this command in your terminal:
+In order to install Spring Tool Suite 4, run this command in your terminal:
 
-    scoop install sts396
+    scoop install sts
 
 If your installation was successful, you should now be able to search for "Spring Tool Suite" in your Windows search bar.
 
@@ -356,7 +356,7 @@ You should see your operating system listed ("Windows 10" in the above example) 
 
 ![](./images/JDK-Version.jpg)
 
-### Step 3: Install Spring Tool Suite 3
+### Step 3: Install Spring Tool Suite 4
 
 1. Navigate to the [Spring Tools](https://spring.io/tools) website and download Spring Tools 4 for Eclipse. 
 
