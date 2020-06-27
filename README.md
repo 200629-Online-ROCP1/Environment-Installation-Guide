@@ -30,6 +30,8 @@ There are two provided methods of attaining and configuring all of the necessary
 
 Neither method is more "correct" than the other. You should choose the method of attaining the tools that works best for you. You may even choose to mix both methods, downloading some tools manually and others via a package manager.
 
+**NOTE**: This guide primarily is written for those on a Windows Machine. For Mac users [this guide](https://github.com/KodaZys/mac-install-guide) may be more helpful. 
+
 ## Method 1: Installation Guide Using A Package Manager
 
 A *package manager* is a command line tool that allows you to install and manage software. You can use a package manager to install all of the software listed here.
